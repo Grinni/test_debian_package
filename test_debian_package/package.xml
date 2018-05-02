@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package>
-  <name>grip</name>
+  <name>test_debian_package</name>
   <version>0.1.0</version>
-  <description>The grip metapackage</description>
+  <description>The test_debian_package metapackage</description>
 
   <maintainer email="iris.grininger@tgw-group.com">GNS</maintainer>
   <license>Proprietary</license>
