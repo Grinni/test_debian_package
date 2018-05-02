@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>grip</name>
+  <version>0.1.0</version>
+  <description>The grip metapackage</description>
+
+  <maintainer email="iris.grininger@tgw-group.com">GNS</maintainer>
+  <license>Proprietary</license>
+  <author email="iris.grininger@tgw-group.com">GNS</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>my_lib</run_depend>
+  <run_depend>use_my_lib</run_depend>
+
+  <export>
+    <metapackage />
+  </export>
+
+</package>
